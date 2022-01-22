@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ketan
+Build-Jdk: 15.0.2
+Implementation-Title: weatherForecast
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/weatherForeca
+ st
+Created-By: Maven Integration for Eclipse
+
