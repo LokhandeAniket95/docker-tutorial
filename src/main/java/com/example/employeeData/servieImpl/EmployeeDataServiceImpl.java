@@ -47,7 +47,6 @@ public class EmployeeDataServiceImpl implements EmployeeDataService {
 				Data employeeData = null;
 				if(employeeDetails != null) {
 					employeeData = employeeDetails.getData();
-					
 				}
 				response = new ResponseEntity<>(employeeData.getEmail().toString(), headers, HttpStatus.OK);
 			}
